@@ -1,0 +1,1 @@
+{"type":0,"version":1,"name":"[BREAKING]_pocof5CHINA_1.0.14","comment":"these apps break some or other thing. although they won't cause boot loop. you can disable them but be cautious","state":"on","packages":["com.xiaomi.aicr","com.miui.securitycenter","miui.systemui.plugin"]}
